@@ -33,7 +33,7 @@ Obteniéndose una utilidad Z de 4.900 € por semana.
 Las variables de decisión son:
 - x1 = Producción de Space Rays (en docenas por semana)
 - x2 = Producción de Zappers (en docenas por semana)
-- 
+
 Se pide:
 
 a) Emplear el método gráfico para visualizar las restricciones. Calcular Z, x1 y x2 para elplan de producción actual. (3 puntos)
