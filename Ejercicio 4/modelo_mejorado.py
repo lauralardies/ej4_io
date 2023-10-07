@@ -7,7 +7,7 @@ f2 = "800-x" # <=
 f3 = "1200-2*x" # <=
 f4 = "(2400-3*x)/4" # <=
 
-z = "(4900-8*x)/5" # max (del enunciado), Z = 4900
+z = "(5040-8*x)/5" # max (modelo mejorado), Z = 5040
 
 x = symbols('x')
 
